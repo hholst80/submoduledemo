@@ -1,0 +1,9 @@
+[submodule "working"]
+	path = working
+	url = https://github.com/apmorton/pyhidapi.git
+[submodule "non-working"]
+	path = non-working
+	url = ../pyhidapi.git
+[submodule "also-non-working"]
+	path = also-non-working
+	url = ../../apmorton/pyhidapi.git
