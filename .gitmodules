@@ -3,7 +3,7 @@
 	url = https://github.com/apmorton/pyhidapi.git
 [submodule "should-work"]
 	path = should-work
-	url = ssh://git@github.com:/apmorton/pyhidapi.git	
+	url = ssh://git@github.com/apmorton/pyhidapi.git	
 [submodule "non-working"]
 	path = non-working
 	url = ../pyhidapi.git
